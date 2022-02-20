@@ -1,4 +1,4 @@
-# Работа с Git
+# Работа с Git.
 ![Git 111](Git-111.gif)
 ![Git 0101](Git-0101.jpg)
 ![Git 1_IHqZCiNdfRR8D61uL-QTfA](Git-1_IHqZCiNdfRR8D61uL-QTfA.png)
